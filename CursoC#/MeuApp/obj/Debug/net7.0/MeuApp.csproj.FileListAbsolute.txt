@@ -1,0 +1,15 @@
+C:\CursoC#\MeuApp\bin\Debug\net7.0\MeuApp.exe
+C:\CursoC#\MeuApp\bin\Debug\net7.0\MeuApp.deps.json
+C:\CursoC#\MeuApp\bin\Debug\net7.0\MeuApp.runtimeconfig.json
+C:\CursoC#\MeuApp\bin\Debug\net7.0\MeuApp.dll
+C:\CursoC#\MeuApp\bin\Debug\net7.0\MeuApp.pdb
+C:\CursoC#\MeuApp\obj\Debug\net7.0\MeuApp.csproj.AssemblyReference.cache
+C:\CursoC#\MeuApp\obj\Debug\net7.0\MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoC#\MeuApp\obj\Debug\net7.0\MeuApp.AssemblyInfoInputs.cache
+C:\CursoC#\MeuApp\obj\Debug\net7.0\MeuApp.AssemblyInfo.cs
+C:\CursoC#\MeuApp\obj\Debug\net7.0\MeuApp.csproj.CoreCompileInputs.cache
+C:\CursoC#\MeuApp\obj\Debug\net7.0\MeuApp.dll
+C:\CursoC#\MeuApp\obj\Debug\net7.0\refint\MeuApp.dll
+C:\CursoC#\MeuApp\obj\Debug\net7.0\MeuApp.pdb
+C:\CursoC#\MeuApp\obj\Debug\net7.0\MeuApp.genruntimeconfig.cache
+C:\CursoC#\MeuApp\obj\Debug\net7.0\ref\MeuApp.dll
