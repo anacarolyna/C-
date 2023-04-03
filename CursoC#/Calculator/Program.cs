@@ -20,7 +20,7 @@ namespace Calculator // Note: actual namespace depends on the project name.
             Console.WriteLine("3 - Divisão");
             Console.WriteLine("4 - Multiplicação");
             Console.WriteLine("5 - Sair");
-
+           
             Console.WriteLine("--------------");
             Console.WriteLine("Selecione uma opção: ");
 
@@ -54,6 +54,7 @@ namespace Calculator // Note: actual namespace depends on the project name.
                 float resultado = v1 + v2;
                 Console.WriteLine($"O resultado da soma é: {resultado}");
                 Console.ReadKey(); //não fecha a execução do programa
+                Menu();
 
 
                 // Console.WriteLine("O Resultao da soma é: "+ resultado);
@@ -77,6 +78,7 @@ namespace Calculator // Note: actual namespace depends on the project name.
                 float resultado = v1 - v2;
                 Console.WriteLine($"O resultado da subtração é: {resultado} ");
                 Console.ReadKey(); //não fecha a execução do programa
+                Menu();
 
             }
 
@@ -94,6 +96,7 @@ namespace Calculator // Note: actual namespace depends on the project name.
                 float resultado = v1 / v2;
                 Console.WriteLine($"O resultado da divisão é: {resultado} ");
                 Console.ReadKey(); //não fecha a execução do programa
+                Menu();
 
 
 
@@ -115,6 +118,7 @@ namespace Calculator // Note: actual namespace depends on the project name.
 
                 Console.WriteLine($"O resultado da multiplicação é: {resultado} ");
                 Console.ReadKey(); //não fechar a execução do programa, so quando der enter ou outra tecla
+                Menu();
             }
 
         }
